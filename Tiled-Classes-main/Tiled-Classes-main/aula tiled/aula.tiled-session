@@ -1,0 +1,63 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "mapa2.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "arvore.png.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mapa1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 344.5,
+                "y": 192
+            }
+        },
+        "mapa2.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 258.72727272727275,
+                "y": -37.18181818181819
+            }
+        },
+        "mapa2.tmx#tileset": {
+            "scaleInDock": 1
+        },
+        "terreno1.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 5.5
+        }
+    },
+    "last.imagePath": "C:/Users/ecole/Downloads/Tiled-Classes-main/Tiled-Classes-main/aula tiled",
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "openFiles": [
+        "mapa2.tmx",
+        "arvore.png.tsx"
+    ],
+    "project": "aula.tiled-project",
+    "recentFiles": [
+        "arvore.png.tsx",
+        "mapa2.tmx",
+        "terreno1.tsx",
+        "mapa1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#000000",
+    "tileset.useTransparentColor": true
+}
