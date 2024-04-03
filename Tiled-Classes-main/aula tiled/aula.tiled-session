@@ -1,0 +1,44 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "mapa1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "mapa1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 344,
+                "y": 193
+            }
+        },
+        "terreno1.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 5.5
+        }
+    },
+    "last.imagePath": "C:/Users/marco/aula tiled",
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "openFiles": [
+        "mapa1.tmx",
+        "terreno1.tsx"
+    ],
+    "project": "aula.tiled-project",
+    "recentFiles": [
+        "terreno1.tsx",
+        "mapa1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#000000",
+    "tileset.useTransparentColor": true
+}
