@@ -7,7 +7,28 @@
     "expandedProjectPaths": [
     ],
     "fileStates": {
+        "mapa1.tmx": {
+            "scale": 0.7421875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.50526315789477,
+                "y": 241.17894736842106
+            }
+        },
+        "mapa2.tmx": {
+            "scale": 0.7421875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 725.5578947368421,
+                "y": 460.79999999999995
+            }
+        },
         "mapa2.tmx#tileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "terreno1.tsx": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "tileset.tsx": {
@@ -15,7 +36,7 @@
             "scaleInEditor": 3
         }
     },
-    "last.imagePath": "C:/Users/marco/aula tiled",
+    "last.imagePath": "/Users/macarena/devel/Tiled-Classes/aula tiled",
     "map.height": 30,
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
@@ -24,7 +45,10 @@
     ],
     "project": "aula2.tiled-project",
     "recentFiles": [
-        "tileset.tsx"
+        "mapa2.tmx",
+        "mapa1.tmx",
+        "tileset.tsx",
+        "terreno1.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
